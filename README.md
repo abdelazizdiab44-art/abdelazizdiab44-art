@@ -27,13 +27,17 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm a **Mechatronics Engineering student** focused on **Industrial Automation & Control**.
+Industrial Automation is my field of focus. I'm **Abdelaziz Diab**. I study **Mechatronics Engineering** and I'm a co-founder at **Tubix AI**.
 
-I care about understanding *how* a system works, from the wiring and contactors to the PLC logic, not just making it run.
+I'm learning how electrical circuits, control systems, PLCs and motor drives work together. Sensors and actuators bring that control to real industrial machines.
 
-- Hands-on with **Classic Control, PLC Programming, Electrical Wiring & Motor Drives**
-- Co-Founder at **TUBIX AI**, combining **Computer Vision** with **Industrial Automation**
-- Goal: become a skilled **Automation Engineer**
+Hands-on training and practical projects help me build skills across electrical control, PLC programming, motor drives and industrial systems. My goal is to turn engineering fundamentals into reliable automation solutions.
+
+At Tubix AI I explore embedded systems, computer vision and AI as supporting technologies for smarter machines.
+
+**My focus is Industrial Automation. I learn by building. I test through practice. I grow through real engineering challenges.**
+
+[**Explore my journey ↗**](https://abdelazizdiab.vercel.app/)
 
 </td>
 <td width="38%" valign="top">
@@ -101,6 +105,70 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="https://img.shields.io/badge/Ladder-Logic-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="Ladder Logic"/>
 <img src="https://img.shields.io/badge/HMI-%26%20SCADA-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="HMI SCADA"/>
 <img src="https://img.shields.io/badge/Motor-Drives-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="Motor Drives"/>
+
+<br/><br/>
+
+**Software & Tools**
+
+<table>
+<tr><th align="left">Area</th><th align="left">Software I Work With</th></tr>
+<tr>
+<td><b>PLC Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/TIA%20Portal-V16-E3C993?style=flat-square&labelColor=1B2330&logo=siemens&logoColor=white" alt="TIA Portal"/>
+<img src="https://img.shields.io/badge/Wecon-PLC%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Wecon"/>
+<img src="https://img.shields.io/badge/WPLSoft-2.48-E3C993?style=flat-square&labelColor=1B2330" alt="WPLSoft"/>
+<img src="https://img.shields.io/badge/EcoStruxure-Machine%20Expert-E3C993?style=flat-square&labelColor=1B2330&logo=schneiderelectric&logoColor=white" alt="EcoStruxure"/>
+</td>
+</tr>
+<tr>
+<td><b>Ladder Logic</b></td>
+<td>
+<img src="https://img.shields.io/badge/LogixPro-Simulator-E3C993?style=flat-square&labelColor=1B2330" alt="LogixPro"/>
+<img src="https://img.shields.io/badge/TIA%20Portal-V16-E3C993?style=flat-square&labelColor=1B2330&logo=siemens&logoColor=white" alt="TIA Portal"/>
+<img src="https://img.shields.io/badge/WPLSoft-2.48-E3C993?style=flat-square&labelColor=1B2330" alt="WPLSoft"/>
+<img src="https://img.shields.io/badge/Wecon-PLC%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Wecon"/>
+</td>
+</tr>
+<tr>
+<td><b>Motor Drives</b></td>
+<td>
+<img src="https://img.shields.io/badge/J1000-Drive%20Programming-E3C993?style=flat-square&labelColor=1B2330" alt="J1000"/>
+</td>
+</tr>
+<tr>
+<td><b>Electrical Design</b></td>
+<td>
+<img src="https://img.shields.io/badge/EPLAN-Education-E3C993?style=flat-square&labelColor=1B2330" alt="EPLAN"/>
+<img src="https://img.shields.io/badge/EduVolt-Designer-E3C993?style=flat-square&labelColor=1B2330" alt="EduVolt"/>
+<img src="https://img.shields.io/badge/Proteus-Simulation-E3C993?style=flat-square&labelColor=1B2330" alt="Proteus"/>
+</td>
+</tr>
+<tr>
+<td><b>Simulation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Factory%20IO-3D%20Simulation-E3C993?style=flat-square&labelColor=1B2330" alt="Factory IO"/>
+<img src="https://img.shields.io/badge/Automation%20Studio-7.0-E3C993?style=flat-square&labelColor=1B2330" alt="Automation Studio"/>
+<img src="https://img.shields.io/badge/MATLAB-R2024a-E3C993?style=flat-square&labelColor=1B2330&logo=mathworks&logoColor=white" alt="MATLAB"/>
+</td>
+</tr>
+<tr>
+<td><b>Mechanical CAD</b></td>
+<td>
+<img src="https://img.shields.io/badge/SOLIDWORKS-2023-E3C993?style=flat-square&labelColor=1B2330&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS"/>
+<img src="https://img.shields.io/badge/AutoCAD-Plant%203D-E3C993?style=flat-square&labelColor=1B2330&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+</td>
+</tr>
+<tr>
+<td><b>Embedded & Dev Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Arduino-IDE-E3C993?style=flat-square&labelColor=1B2330&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/VS%20Code-Editor-E3C993?style=flat-square&labelColor=1B2330&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Cursor-AI%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Cursor"/>
+<img src="https://img.shields.io/badge/GitHub-Desktop-E3C993?style=flat-square&labelColor=1B2330&logo=github&logoColor=white" alt="GitHub"/>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
