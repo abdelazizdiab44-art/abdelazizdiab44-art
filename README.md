@@ -1,227 +1,211 @@
-
 <!-- ===================================================== -->
-<!-- ABDELAZIZ DIAB | GITHUB PROFILE                       -->
+<!-- ABDELAZIZ DIAB | GITHUB PROFILE (REDESIGN)            -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-# ABDELAZIZ DIAB
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1B2330,100:E3C993&text=ABDELAZIZ%20DIAB&fontColor=E3C993&fontSize=58&fontAlignY=38&desc=Mechatronics%20Engineering%20Student&descSize=20&descAlignY=60&descColor=C9D1D9&animation=fadeIn" alt="header" width="100%"/>
 
-### Mechatronics Engineering Student
-
-**Industrial Automation & Control Systems**
-
-Building my knowledge in industrial control, PLC programming, and intelligent machines.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/abdelaziz-diab-577828344">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://wa.me/20XXXXXXXXXX">WhatsApp</a>
-&nbsp; · &nbsp;
-<a href="https://YOUR-PORTFOLIO-LINK">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="https://github.com/abdelazizdiab44-art">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E3C993&center=true&vCenter=true&width=720&height=45&lines=Industrial+Automation+%26+Control+Systems;PLC+Programming+%7C+Motor+Drives;Computer+Vision+%2B+Mechatronics;Co-Founder+%40+TUBIX+AI" alt="Typing SVG"/>
+</a>
 
 <br/><br/>
 
+<a href="https://www.linkedin.com/in/abdelaziz-diab-577828344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/201500212319"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://abdelazizdiab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E3C993&labelColor=0D1117&color=E3C993" alt="Portfolio"/></a>
+<a href="mailto:abdelazizdiab44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 </div>
 
----
+<br/>
 
-## 01 / Professional Profile
+## ⚡ About Me
 
-I'm a **Mechatronics Engineering student** with a main focus on **Industrial Automation & Control**.
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I'm interested in understanding how machines work and how electrical circuits, sensors, motors, and PLCs work together to control industrial processes.
+I'm a **Mechatronics Engineering student** focused on **Industrial Automation & Control**.
 
-Currently, I'm developing my skills in **Classic Control, PLC Programming, Electrical Wiring, and Motor Drives** through hands-on training and practical projects. For me, understanding how a system works is just as important as writing the code and making it run.
+I care about understanding *how* a system works, from the wiring and contactors to the PLC logic, not just making it run.
 
-I'm also a **Co-Founder at TUBIX AI**, where I work on a project that combines **Computer Vision and Industrial Automation** for agricultural sorting.
+- 🔧 Hands-on with **Classic Control, PLC Programming, Electrical Wiring & Motor Drives**
+- 🧠 Co-Founder at **TUBIX AI**, combining **Computer Vision** with **Industrial Automation**
+- 🎯 Goal: become a skilled **Automation Engineer**
 
-Here, I share my journey in automation, including what I learn, the projects I work on, and the challenges I face along the way.
+</td>
+<td width="38%" valign="top">
 
-I'm still learning and improving my skills, with the goal of turning knowledge into real applications and becoming a skilled **Automation Engineer**.
+```yaml
+name: Abdelaziz Diab
+role: Mechatronics Student
+focus:
+  - Industrial Automation
+  - PLC & Motor Drives
+  - Computer Vision
+startup: TUBIX AI
+status: Learning. Building.
+```
 
----
+</td>
+</tr>
+</table>
 
-## 02 / Engineering Focus
+<br/>
 
-### 01. Electrical Control
+## 🛠️ Engineering Focus
 
-Understanding electrical systems and developing reliable control circuits for industrial applications.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Classic Control Circuits
-- Electrical Wiring & Schematics
-- Relays and Contactors
-- Motor Control
-- Sensors and Actuators
-- Motor Drives
+### ⚙️ Electrical Control
+Classic control circuits, wiring & schematics, relays and contactors, motor control, sensors and actuators.
 
-### 02. PLC & Industrial Automation
+</td>
+<td width="50%" valign="top">
 
-Learning how to program controllers and build automated sequences for industrial machines.
+### 🧩 PLC & Automation
+Ladder Logic on **Siemens TIA Portal**, timers and counters, interlocking systems, automated sequences.
 
-- PLC Programming
-- Ladder Logic
-- Siemens TIA Portal
-- Timers and Counters
-- Interlocking Systems
-- Automated Sequences
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03. Monitoring & Integration
+### 📡 Monitoring & Integration
+HMI and SCADA fundamentals, industrial communication, process monitoring, control system integration.
 
-Exploring how industrial systems are monitored, operated, and connected.
+</td>
+<td width="50%" valign="top">
 
-- HMI Fundamentals
-- SCADA Fundamentals
-- Industrial Communication
-- Process Monitoring
-- Control System Integration
+### 🤖 Intelligent Machines
+Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
-### 04. Intelligent Machines
+</td>
+</tr>
+</table>
 
-Combining mechatronics, programming, and computer vision to develop intelligent industrial applications.
+<br/>
 
-- Python
-- OpenCV
-- Computer Vision
-- YOLO-based Detection
-- Embedded Systems
-- Intelligent Sorting Systems
-
----
-
-## 03 / Technical Stack
-
-### Automation & Control
-
-<p>
-  <img src="https://img.shields.io/badge/PLC-Programming-252B33?style=flat-square" alt="PLC"/>
-  <img src="https://img.shields.io/badge/Siemens-TIA%20Portal-252B33?style=flat-square" alt="Siemens TIA Portal"/>
-  <img src="https://img.shields.io/badge/Ladder-Logic-252B33?style=flat-square" alt="Ladder Logic"/>
-  <img src="https://img.shields.io/badge/Classic-Control-252B33?style=flat-square" alt="Classic Control"/>
-  <img src="https://img.shields.io/badge/HMI-Monitoring-252B33?style=flat-square" alt="HMI"/>
-  <img src="https://img.shields.io/badge/SCADA-Systems-252B33?style=flat-square" alt="SCADA"/>
-</p>
-
-### Programming & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-</p>
-
-### Embedded Systems & Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-## 04 / Featured Projects
-
-### TUBIX AI
-**AI-Powered Industrial Potato Sorting System**
-
-TUBIX AI is a project focused on developing an intelligent potato sorting solution that combines computer vision and mechatronics.
-
-The goal is to improve agricultural product inspection and automate the sorting process using AI-powered detection and electromechanical systems.
-
-**Key Technologies & Concepts**
-
-- Python and OpenCV
-- YOLO-based Object Detection
-- Computer Vision
-- Image Processing
-- Embedded Systems
-- Industrial Automation
-- Mechanical and Electrical Integration
-
-**My Role:** Co-Founder at TUBIX AI, contributing to the development of intelligent industrial solutions.
-
----
-
-### Industrial Automation & Control
-
-**Practical Learning & Engineering Projects**
-
-A continuous learning journey focused on understanding and implementing industrial control systems.
-
-**Main Areas**
-
-- Electrical Control Circuits
-- Motor Starting and Control
-- PLC Programming
-- Ladder Logic
-- Siemens TIA Portal
-- Industrial Automation
-- Motor Drives
-
----
-
-## 05 / Current Learning Journey
-
-My current development path focuses on building strong practical foundations in industrial automation.
-
-**Current Priorities**
-
-1. Strengthening Electrical Control fundamentals.
-2. Improving PLC Programming and Ladder Logic.
-3. Understanding Motor Drives and industrial motors.
-4. Practicing electrical wiring and troubleshooting.
-5. Exploring HMI and SCADA systems.
-6. Applying automation concepts in real engineering projects.
-
----
-
-## 06 / Engineering Interests
-
-I'm particularly interested in:
-
-- Industrial Automation
-- Control Systems
-- Smart Manufacturing
-- PLC-Based Machine Control
-- Electrical Control and Motor Drives
-- Industrial Robotics
-- Embedded Systems
-- Artificial Intelligence in Industry
-- Computer Vision Applications
-
----
-
-## 07 / Let's Connect
-
-I'm always interested in connecting with engineers, automation professionals, developers, and people working on industrial technology.
-
-If you're interested in automation, intelligent machines, or engineering projects, feel free to connect.
+## 🧰 Tech Stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdelaziz-diab-577828344">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+**Automation & Control**
 
-<a href="https://wa.me/20XXXXXXXXXX">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
+<img src="https://img.shields.io/badge/PLC-Programming-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="PLC"/>
+<img src="https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white" alt="TIA Portal"/>
+<img src="https://img.shields.io/badge/Ladder-Logic-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="Ladder Logic"/>
+<img src="https://img.shields.io/badge/HMI-%26%20SCADA-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="HMI SCADA"/>
+<img src="https://img.shields.io/badge/Motor-Drives-1B2330?style=for-the-badge&labelColor=0D1117&color=E3C993" alt="Motor Drives"/>
 
-<a href="https://YOUR-PORTFOLIO-LINK">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-252B33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+<br/><br/>
 
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-E3C993?style=for-the-badge&logo=gmail&logoColor=151B23" alt="Email"/>
-</a>
+**Programming, Vision & Embedded**
+
+<img src="https://skillicons.dev/icons?i=py,opencv,cpp,c,arduino,raspberrypi,git,github&theme=dark" alt="skills"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-111F68?style=for-the-badge" alt="YOLO"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥔 TUBIX AI
+**AI-Powered Industrial Potato Sorting System**
+
+An intelligent sorting solution that combines computer vision and mechatronics to automate agricultural inspection.
+
+`Python` `OpenCV` `YOLO` `Embedded Systems` `Industrial Automation`
+
+**Role:** Co-Founder
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Industrial Automation & Control
+**Practical Learning & Engineering Projects**
+
+A continuous, hands-on journey implementing real industrial control systems.
+
+`Motor Starting` `PLC` `Ladder Logic` `TIA Portal` `Motor Drives`
+
+**Focus:** Electrical control circuits & automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Current Learning Journey
+
+| # | Priority | Progress |
+|:-:|:--|:--|
+| 1 | Electrical Control fundamentals | ![](https://geps.dev/progress/75?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 2 | PLC Programming & Ladder Logic | ![](https://geps.dev/progress/70?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 3 | Motor Drives & industrial motors | ![](https://geps.dev/progress/55?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 4 | Electrical wiring & troubleshooting | ![](https://geps.dev/progress/65?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 5 | HMI & SCADA systems | ![](https://geps.dev/progress/40?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 6 | Applying automation in real projects | ![](https://geps.dev/progress/50?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+
+<br/>
+
+## 🎯 Engineering Interests
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Industrial%20Automation-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Control%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Smart%20Manufacturing-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/PLC%20Machine%20Control-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Motor%20Drives-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Industrial%20Robotics-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/AI%20in%20Industry-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelazizdiab44-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C993&icon_color=E3C993&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizdiab44-art&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C993&text_color=C9D1D9" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=abdelazizdiab44-art&hide_border=true&background=0D1117&ring=E3C993&fire=E3C993&currStreakLabel=E3C993&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with engineers, automation professionals, developers, and anyone working on industrial technology.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abdelaziz-diab-577828344"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/201500212319"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://abdelazizdiab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E3C993&labelColor=0D1117&color=E3C993" alt="Portfolio"/></a>
+<a href="mailto:abdelazizdiab44@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E3C993?style=for-the-badge&logo=gmail&logoColor=151B23" alt="Email"/></a>
 
 <br/><br/>
 
@@ -232,5 +216,7 @@ If you're interested in automation, intelligent machines, or engineering project
 **Learning. Building. Improving.**
 
 *Turning engineering knowledge into real-world solutions.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1B2330,100:E3C993&section=footer" alt="footer" width="100%"/>
 
 </div>
