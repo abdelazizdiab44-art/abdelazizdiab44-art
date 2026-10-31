@@ -21,7 +21,7 @@
 
 <br/>
 
-## ⚡ About Me
+## About Me
 
 <table>
 <tr>
@@ -31,9 +31,9 @@ I'm a **Mechatronics Engineering student** focused on **Industrial Automation & 
 
 I care about understanding *how* a system works, from the wiring and contactors to the PLC logic, not just making it run.
 
-- 🔧 Hands-on with **Classic Control, PLC Programming, Electrical Wiring & Motor Drives**
-- 🧠 Co-Founder at **TUBIX AI**, combining **Computer Vision** with **Industrial Automation**
-- 🎯 Goal: become a skilled **Automation Engineer**
+- Hands-on with **Classic Control, PLC Programming, Electrical Wiring & Motor Drives**
+- Co-Founder at **TUBIX AI**, combining **Computer Vision** with **Industrial Automation**
+- Goal: become a skilled **Automation Engineer**
 
 </td>
 <td width="38%" valign="top">
@@ -55,19 +55,19 @@ status: Learning. Building.
 
 <br/>
 
-## 🛠️ Engineering Focus
+## Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Electrical Control
+### Electrical Control
 Classic control circuits, wiring & schematics, relays and contactors, motor control, sensors and actuators.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 PLC & Automation
+### PLC & Automation
 Ladder Logic on **Siemens TIA Portal**, timers and counters, interlocking systems, automated sequences.
 
 </td>
@@ -75,13 +75,13 @@ Ladder Logic on **Siemens TIA Portal**, timers and counters, interlocking system
 <tr>
 <td width="50%" valign="top">
 
-### 📡 Monitoring & Integration
+### Monitoring & Integration
 HMI and SCADA fundamentals, industrial communication, process monitoring, control system integration.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Intelligent Machines
+### Intelligent Machines
 Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 </td>
@@ -90,7 +90,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -117,13 +117,13 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥔 TUBIX AI
+### TUBIX AI
 **AI-Powered Industrial Potato Sorting System**
 
 An intelligent sorting solution that combines computer vision and mechatronics to automate agricultural inspection.
@@ -135,7 +135,7 @@ An intelligent sorting solution that combines computer vision and mechatronics t
 </td>
 <td width="50%" valign="top">
 
-### 🏭 Industrial Automation & Control
+### Industrial Automation & Control
 **Practical Learning & Engineering Projects**
 
 A continuous, hands-on journey implementing real industrial control systems.
@@ -150,7 +150,7 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <br/>
 
-## 📈 Current Learning Journey
+## Current Learning Journey
 
 | # | Priority | Progress |
 |:-:|:--|:--|
@@ -163,7 +163,7 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <br/>
 
-## 🎯 Engineering Interests
+## Engineering Interests
 
 <div align="center">
 
@@ -181,7 +181,7 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -196,7 +196,7 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always happy to connect with engineers, automation professionals, developers, and anyone working on industrial technology.
 
