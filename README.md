@@ -110,32 +110,34 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 **PLC & Drives Software**
 
-<img src="assets/tools/tia.svg" width="48" height="48" alt="TIA Portal V16" title="TIA Portal V16"/>
-<img src="assets/tools/wecon.svg" width="48" height="48" alt="Wecon PLC Editor" title="Wecon PLC Editor"/>
-<img src="assets/tools/wplsoft.svg" width="48" height="48" alt="WPLSoft 2.48" title="WPLSoft 2.48"/>
-<img src="assets/tools/ecostruxure.svg" width="48" height="48" alt="EcoStruxure Machine Expert" title="EcoStruxure Machine Expert"/>
-<img src="assets/tools/logixpro.svg" width="48" height="48" alt="LogixPro" title="LogixPro"/>
-<img src="assets/tools/j1000.svg" width="48" height="48" alt="J1000 Programming" title="J1000 Programming"/>
+<img src="https://img.shields.io/badge/TIA%20Portal-242938?style=for-the-badge&logo=siemens&logoColor=00B5B5" alt="TIA Portal"/>
+<img src="https://img.shields.io/badge/Wecon%20PLC-242938?style=for-the-badge" alt="Wecon PLC Editor"/>
+<img src="https://img.shields.io/badge/WPLSoft-242938?style=for-the-badge" alt="WPLSoft"/>
+<img src="https://img.shields.io/badge/EcoStruxure-242938?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58" alt="EcoStruxure Machine Expert"/>
+<img src="https://img.shields.io/badge/LogixPro-242938?style=for-the-badge" alt="LogixPro"/>
+<img src="https://img.shields.io/badge/J1000%20Drive-242938?style=for-the-badge" alt="J1000"/>
 
 <br/>
 
 **Electrical Design & Simulation**
 
-<img src="assets/tools/eplan.svg" width="48" height="48" alt="EPLAN Education" title="EPLAN Education"/>
-<img src="assets/tools/eduvolt.svg" width="48" height="48" alt="EduVolt Designer" title="EduVolt Designer"/>
-<img src="assets/tools/proteus.svg" width="48" height="48" alt="Proteus" title="Proteus"/>
-<img src="assets/tools/factoryio.svg" width="48" height="48" alt="Factory IO" title="Factory IO"/>
-<img src="assets/tools/automationstudio.svg" width="48" height="48" alt="Automation Studio 7.0" title="Automation Studio 7.0"/>
-<img src="assets/tools/matlab.svg" width="48" height="48" alt="MATLAB R2024a" title="MATLAB R2024a"/>
+<img src="https://img.shields.io/badge/EPLAN-242938?style=for-the-badge" alt="EPLAN"/>
+<img src="https://img.shields.io/badge/EduVolt-242938?style=for-the-badge" alt="EduVolt Designer"/>
+<img src="https://img.shields.io/badge/Proteus-242938?style=for-the-badge&logo=proteus&logoColor=1C79B3" alt="Proteus"/>
+<img src="https://img.shields.io/badge/Factory%20IO-242938?style=for-the-badge" alt="Factory IO"/>
+<img src="https://img.shields.io/badge/Automation%20Studio-242938?style=for-the-badge" alt="Automation Studio"/>
 
 <br/>
 
 **CAD & Dev Tools**
 
-<img src="assets/tools/solidworks.svg" width="48" height="48" alt="SOLIDWORKS 2023" title="SOLIDWORKS 2023"/>
-<img src="assets/tools/autocad.svg" width="48" height="48" alt="AutoCAD Plant 3D" title="AutoCAD Plant 3D"/>
-<img src="assets/tools/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"/>
-<img src="assets/tools/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
+<img src="https://skillicons.dev/icons?i=matlab,vscode&theme=dark" alt="MATLAB, VS Code"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SOLIDWORKS-242938?style=for-the-badge" alt="SOLIDWORKS"/>
+<img src="https://img.shields.io/badge/AutoCAD-242938?style=for-the-badge&logo=autocad&logoColor=E51050" alt="AutoCAD Plant 3D"/>
+<img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 
 <br/><br/>
 
