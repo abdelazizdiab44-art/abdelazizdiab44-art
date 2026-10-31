@@ -108,67 +108,34 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 <br/><br/>
 
-**Software & Tools**
+**PLC & Drives Software**
 
-<table>
-<tr><th align="left">Area</th><th align="left">Software I Work With</th></tr>
-<tr>
-<td><b>PLC Programming</b></td>
-<td>
-<img src="https://img.shields.io/badge/TIA%20Portal-V16-E3C993?style=flat-square&labelColor=1B2330&logo=siemens&logoColor=white" alt="TIA Portal"/>
-<img src="https://img.shields.io/badge/Wecon-PLC%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Wecon"/>
-<img src="https://img.shields.io/badge/WPLSoft-2.48-E3C993?style=flat-square&labelColor=1B2330" alt="WPLSoft"/>
-<img src="https://img.shields.io/badge/EcoStruxure-Machine%20Expert-E3C993?style=flat-square&labelColor=1B2330&logo=schneiderelectric&logoColor=white" alt="EcoStruxure"/>
-</td>
-</tr>
-<tr>
-<td><b>Ladder Logic</b></td>
-<td>
-<img src="https://img.shields.io/badge/LogixPro-Simulator-E3C993?style=flat-square&labelColor=1B2330" alt="LogixPro"/>
-<img src="https://img.shields.io/badge/TIA%20Portal-V16-E3C993?style=flat-square&labelColor=1B2330&logo=siemens&logoColor=white" alt="TIA Portal"/>
-<img src="https://img.shields.io/badge/WPLSoft-2.48-E3C993?style=flat-square&labelColor=1B2330" alt="WPLSoft"/>
-<img src="https://img.shields.io/badge/Wecon-PLC%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Wecon"/>
-</td>
-</tr>
-<tr>
-<td><b>Motor Drives</b></td>
-<td>
-<img src="https://img.shields.io/badge/J1000-Drive%20Programming-E3C993?style=flat-square&labelColor=1B2330" alt="J1000"/>
-</td>
-</tr>
-<tr>
-<td><b>Electrical Design</b></td>
-<td>
-<img src="https://img.shields.io/badge/EPLAN-Education-E3C993?style=flat-square&labelColor=1B2330" alt="EPLAN"/>
-<img src="https://img.shields.io/badge/EduVolt-Designer-E3C993?style=flat-square&labelColor=1B2330" alt="EduVolt"/>
-<img src="https://img.shields.io/badge/Proteus-Simulation-E3C993?style=flat-square&labelColor=1B2330" alt="Proteus"/>
-</td>
-</tr>
-<tr>
-<td><b>Simulation</b></td>
-<td>
-<img src="https://img.shields.io/badge/Factory%20IO-3D%20Simulation-E3C993?style=flat-square&labelColor=1B2330" alt="Factory IO"/>
-<img src="https://img.shields.io/badge/Automation%20Studio-7.0-E3C993?style=flat-square&labelColor=1B2330" alt="Automation Studio"/>
-<img src="https://img.shields.io/badge/MATLAB-R2024a-E3C993?style=flat-square&labelColor=1B2330&logo=mathworks&logoColor=white" alt="MATLAB"/>
-</td>
-</tr>
-<tr>
-<td><b>Mechanical CAD</b></td>
-<td>
-<img src="https://img.shields.io/badge/SOLIDWORKS-2023-E3C993?style=flat-square&labelColor=1B2330&logo=dassaultsystemes&logoColor=white" alt="SOLIDWORKS"/>
-<img src="https://img.shields.io/badge/AutoCAD-Plant%203D-E3C993?style=flat-square&labelColor=1B2330&logo=autodesk&logoColor=white" alt="AutoCAD"/>
-</td>
-</tr>
-<tr>
-<td><b>Embedded & Dev Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Arduino-IDE-E3C993?style=flat-square&labelColor=1B2330&logo=arduino&logoColor=white" alt="Arduino"/>
-<img src="https://img.shields.io/badge/VS%20Code-Editor-E3C993?style=flat-square&labelColor=1B2330&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Cursor-AI%20Editor-E3C993?style=flat-square&labelColor=1B2330" alt="Cursor"/>
-<img src="https://img.shields.io/badge/GitHub-Desktop-E3C993?style=flat-square&labelColor=1B2330&logo=github&logoColor=white" alt="GitHub"/>
-</td>
-</tr>
-</table>
+<img src="assets/tools/tia.svg" width="48" height="48" alt="TIA Portal V16" title="TIA Portal V16"/>
+<img src="assets/tools/wecon.svg" width="48" height="48" alt="Wecon PLC Editor" title="Wecon PLC Editor"/>
+<img src="assets/tools/wplsoft.svg" width="48" height="48" alt="WPLSoft 2.48" title="WPLSoft 2.48"/>
+<img src="assets/tools/ecostruxure.svg" width="48" height="48" alt="EcoStruxure Machine Expert" title="EcoStruxure Machine Expert"/>
+<img src="assets/tools/logixpro.svg" width="48" height="48" alt="LogixPro" title="LogixPro"/>
+<img src="assets/tools/j1000.svg" width="48" height="48" alt="J1000 Programming" title="J1000 Programming"/>
+
+<br/>
+
+**Electrical Design & Simulation**
+
+<img src="assets/tools/eplan.svg" width="48" height="48" alt="EPLAN Education" title="EPLAN Education"/>
+<img src="assets/tools/eduvolt.svg" width="48" height="48" alt="EduVolt Designer" title="EduVolt Designer"/>
+<img src="assets/tools/proteus.svg" width="48" height="48" alt="Proteus" title="Proteus"/>
+<img src="assets/tools/factoryio.svg" width="48" height="48" alt="Factory IO" title="Factory IO"/>
+<img src="assets/tools/automationstudio.svg" width="48" height="48" alt="Automation Studio 7.0" title="Automation Studio 7.0"/>
+<img src="assets/tools/matlab.svg" width="48" height="48" alt="MATLAB R2024a" title="MATLAB R2024a"/>
+
+<br/>
+
+**CAD & Dev Tools**
+
+<img src="assets/tools/solidworks.svg" width="48" height="48" alt="SOLIDWORKS 2023" title="SOLIDWORKS 2023"/>
+<img src="assets/tools/autocad.svg" width="48" height="48" alt="AutoCAD Plant 3D" title="AutoCAD Plant 3D"/>
+<img src="assets/tools/vscode.svg" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code"/>
+<img src="assets/tools/cursor.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
 
 <br/><br/>
 
