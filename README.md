@@ -111,9 +111,9 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 **PLC & Drives Software**
 
 <img src="https://img.shields.io/badge/TIA%20Portal-242938?style=for-the-badge&logo=siemens&logoColor=00B5B5" alt="TIA Portal"/>
-<img src="https://img.shields.io/badge/Wecon%20PLC-242938?style=for-the-badge" alt="Wecon PLC Editor"/>
-<img src="https://img.shields.io/badge/WPLSoft-242938?style=for-the-badge" alt="WPLSoft"/>
-<img src="https://img.shields.io/badge/EcoStruxure-242938?style=for-the-badge&logo=schneiderelectric&logoColor=3DCD58" alt="EcoStruxure Machine Expert"/>
+<img src="assets/tools/wecon.png" width="48" height="48" alt="Wecon PLC Editor" title="Wecon PLC Editor"/>
+<img src="assets/tools/wplsoft.png" width="48" height="48" alt="WPLSoft" title="WPLSoft 2.48"/>
+<img src="assets/tools/ecostruxure.png" width="48" height="48" alt="EcoStruxure Machine Expert" title="EcoStruxure Machine Expert"/>
 <img src="https://img.shields.io/badge/LogixPro-242938?style=for-the-badge" alt="LogixPro"/>
 <img src="https://img.shields.io/badge/J1000%20Drive-242938?style=for-the-badge" alt="J1000"/>
 
@@ -121,21 +121,22 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 **Electrical Design & Simulation**
 
-<img src="https://img.shields.io/badge/EPLAN-242938?style=for-the-badge" alt="EPLAN"/>
-<img src="https://img.shields.io/badge/EduVolt-242938?style=for-the-badge" alt="EduVolt Designer"/>
+<img src="assets/tools/eplan.png" width="48" height="48" alt="EPLAN" title="EPLAN Education"/>
+<img src="assets/tools/eduvolt.png" width="48" height="48" alt="EduVolt Designer" title="EduVolt Designer"/>
+<img src="assets/tools/ekts.png" width="48" height="48" alt="EKTS" title="EKTS"/>
 <img src="https://img.shields.io/badge/Proteus-242938?style=for-the-badge&logo=proteus&logoColor=1C79B3" alt="Proteus"/>
-<img src="https://img.shields.io/badge/Factory%20IO-242938?style=for-the-badge" alt="Factory IO"/>
-<img src="https://img.shields.io/badge/Automation%20Studio-242938?style=for-the-badge" alt="Automation Studio"/>
+<img src="assets/tools/factoryio.png" width="48" height="48" alt="Factory IO" title="Factory IO"/>
+<img src="assets/tools/automationstudio.png" width="48" height="48" alt="Automation Studio" title="Automation Studio 7.0"/>
 
 <br/>
 
 **CAD & Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=matlab,vscode&theme=dark" alt="MATLAB, VS Code"/>
+<img src="assets/tools/solidworks.png" width="48" height="48" alt="SOLIDWORKS" title="SOLIDWORKS 2023"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SOLIDWORKS-242938?style=for-the-badge" alt="SOLIDWORKS"/>
 <img src="https://img.shields.io/badge/AutoCAD-242938?style=for-the-badge&logo=autocad&logoColor=E51050" alt="AutoCAD Plant 3D"/>
 <img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 
@@ -143,7 +144,9 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 **Programming, Vision & Embedded**
 
-<img src="https://skillicons.dev/icons?i=py,opencv,cpp,c,arduino,raspberrypi,git,github&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=py,opencv,cpp,c&theme=dark" alt="Python, OpenCV, C++, C"/>
+<img src="assets/tools/arduino.png" width="48" height="48" alt="Arduino" title="Arduino"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,git,github&theme=dark" alt="Raspberry Pi, Git, GitHub"/>
 
 <br/>
 
