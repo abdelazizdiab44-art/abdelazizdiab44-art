@@ -35,7 +35,6 @@ At Tubix AI I explore embedded systems, computer vision and AI as supporting tec
 
 **My focus is Industrial Automation. I learn by building. I test through practice. I grow through real engineering challenges.**
 
-[**Explore my journey ↗**](https://abdelazizdiab.vercel.app/)
 
 </div>
 
