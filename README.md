@@ -1,13 +1,10 @@
-<!-- ===================================================== -->
-<!-- ABDELAZIZ DIAB | GITHUB PROFILE (REDESIGN)            -->
-<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1B2330,100:E3C993&text=ABDELAZIZ%20DIAB&fontColor=E3C993&fontSize=58&fontAlignY=38&desc=Mechatronics%20Engineering%20Student&descSize=20&descAlignY=60&descColor=C9D1D9&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:121417,25:252729,50:44433F,75:827D6C,100:ADA58D&text=ABDELAZIZ%20DIAB&fontColor=E3D19D&fontSize=58&fontAlignY=38&desc=Mechatronics%20Engineering%20Student&descSize=20&descAlignY=60&descColor=F0F0EC&animation=fadeIn" alt="Abdelaziz Diab Header" width="100%"/>
 
 <a href="https://github.com/abdelazizdiab44-art">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E3C993&center=true&vCenter=true&width=720&height=45&lines=Industrial+Automation+%26+Control+Systems;PLC+Programming+%7C+Motor+Drives;Computer+Vision+%2B+Mechatronics;Co-Founder+%40+TUBIX+AI" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E3C993&center=true&vCenter=true&width=720&height=45&lines=Industrial+Automation+%26+Control+Systems;PLC+Programming+%7C+Motor+Drives;Computer+Vision+%2B+Mechatronics;Co-Founder+%40+TUBIX+AI" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -66,12 +63,14 @@ status: Learning. Building.
 <td width="50%" valign="top">
 
 ### Electrical Control
+
 Classic control circuits, wiring & schematics, relays and contactors, motor control, sensors and actuators.
 
 </td>
 <td width="50%" valign="top">
 
 ### PLC & Automation
+
 Ladder Logic on **Siemens TIA Portal**, timers and counters, interlocking systems, automated sequences.
 
 </td>
@@ -80,12 +79,14 @@ Ladder Logic on **Siemens TIA Portal**, timers and counters, interlocking system
 <td width="50%" valign="top">
 
 ### Monitoring & Integration
+
 HMI and SCADA fundamentals, industrial communication, process monitoring, control system integration.
 
 </td>
 <td width="50%" valign="top">
 
 ### Intelligent Machines
+
 Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 
 </td>
@@ -117,7 +118,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="https://img.shields.io/badge/LogixPro-242938?style=for-the-badge" alt="LogixPro"/>
 <img src="https://img.shields.io/badge/J1000%20Drive-242938?style=for-the-badge" alt="J1000"/>
 
-<br/>
+<br/><br/>
 
 **Electrical Design & Simulation**
 
@@ -128,16 +129,16 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="https://raw.githubusercontent.com/abdelazizdiab44-art/abdelazizdiab44-art/main/factoryio.png" width="48" height="48" alt="Factory IO" title="Factory IO"/>
 <img src="https://raw.githubusercontent.com/abdelazizdiab44-art/abdelazizdiab44-art/main/automationstudio.png" width="48" height="48" alt="Automation Studio" title="Automation Studio 7.0"/>
 
-<br/>
+<br/><br/>
 
 **CAD & Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=matlab,vscode&theme=dark" alt="MATLAB, VS Code"/>
 <img src="https://raw.githubusercontent.com/abdelazizdiab44-art/abdelazizdiab44-art/main/solidworks.png" width="48" height="48" alt="SOLIDWORKS" title="SOLIDWORKS 2023"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/AutoCAD-242938?style=for-the-badge&logo=autocad&logoColor=E51050" alt="AutoCAD Plant 3D"/>
+<img src="https://img.shields.io/badge/AutoCAD-242938?style=for-the-badge&logo=autocad&logoColor=E51050" alt="AutoCAD"/>
 <img src="https://img.shields.io/badge/Cursor-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 
 <br/><br/>
@@ -148,7 +149,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="https://raw.githubusercontent.com/abdelazizdiab44-art/abdelazizdiab44-art/main/arduino.png" width="48" height="48" alt="Arduino" title="Arduino"/>
 <img src="https://skillicons.dev/icons?i=raspberrypi,git,github&theme=dark" alt="Raspberry Pi, Git, GitHub"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111F68?style=for-the-badge" alt="YOLO"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
@@ -164,6 +165,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <td width="50%" valign="top">
 
 ### TUBIX AI
+
 **AI-Powered Industrial Potato Sorting System**
 
 An intelligent sorting solution that combines computer vision and mechatronics to automate agricultural inspection.
@@ -176,6 +178,7 @@ An intelligent sorting solution that combines computer vision and mechatronics t
 <td width="50%" valign="top">
 
 ### Industrial Automation & Control
+
 **Practical Learning & Engineering Projects**
 
 A continuous, hands-on journey implementing real industrial control systems.
@@ -193,13 +196,13 @@ A continuous, hands-on journey implementing real industrial control systems.
 ## Current Learning Journey
 
 | # | Priority | Progress |
-|:-:|:--|:--|
-| 1 | Electrical Control fundamentals | ![](https://geps.dev/progress/75?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
-| 2 | PLC Programming & Ladder Logic | ![](https://geps.dev/progress/70?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
-| 3 | Motor Drives & industrial motors | ![](https://geps.dev/progress/55?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
-| 4 | Electrical wiring & troubleshooting | ![](https://geps.dev/progress/65?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
-| 5 | HMI & SCADA systems | ![](https://geps.dev/progress/40?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
-| 6 | Applying automation in real projects | ![](https://geps.dev/progress/50?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+|:-:|:--|:--:|
+| 1 | Electrical Control fundamentals | ![75%](https://geps.dev/progress/75?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 2 | PLC Programming & Ladder Logic | ![70%](https://geps.dev/progress/70?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 3 | Motor Drives & industrial motors | ![55%](https://geps.dev/progress/55?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 4 | Electrical wiring & troubleshooting | ![65%](https://geps.dev/progress/65?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 5 | HMI & SCADA systems | ![40%](https://geps.dev/progress/40?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
+| 6 | Applying automation in real projects | ![50%](https://geps.dev/progress/50?dangerColor=E3C993&warningColor=E3C993&successColor=E3C993) |
 
 <br/>
 
@@ -207,15 +210,15 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Industrial%20Automation-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Control%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Smart%20Manufacturing-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/PLC%20Machine%20Control-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Motor%20Drives-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Industrial%20Robotics-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/AI%20in%20Industry-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
+<img src="https://img.shields.io/badge/Industrial%20Automation-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Industrial Automation"/>
+<img src="https://img.shields.io/badge/Control%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Control Systems"/>
+<img src="https://img.shields.io/badge/Smart%20Manufacturing-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Smart Manufacturing"/>
+<img src="https://img.shields.io/badge/PLC%20Machine%20Control-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="PLC Machine Control"/>
+<img src="https://img.shields.io/badge/Motor%20Drives-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Motor Drives"/>
+<img src="https://img.shields.io/badge/Industrial%20Robotics-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Industrial Robotics"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Embedded Systems"/>
+<img src="https://img.shields.io/badge/AI%20in%20Industry-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="AI in Industry"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt="Computer Vision"/>
 
 </div>
 
@@ -228,9 +231,9 @@ A continuous, hands-on journey implementing real industrial control systems.
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelazizdiab44-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C993&icon_color=E3C993&text_color=C9D1D9" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizdiab44-art&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C993&text_color=C9D1D9" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abdelazizdiab44-art&hide_border=true&background=0D1117&ring=E3C993&fire=E3C993&currStreakLabel=E3C993&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=abdelazizdiab44-art&hide_border=true&background=0D1117&ring=E3C993&fire=E3C993&currStreakLabel=E3C993&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -257,6 +260,6 @@ I'm always happy to connect with engineers, automation professionals, developers
 
 *Turning engineering knowledge into real-world solutions.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1B2330,100:E3C993&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1B2330,100:E3C993&section=footer" alt="Footer" width="100%"/>
 
 </div>
