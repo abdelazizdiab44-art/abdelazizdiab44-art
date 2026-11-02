@@ -35,6 +35,7 @@ At Tubix AI I explore embedded systems, computer vision and AI as supporting tec
 
 **My focus is Industrial Automation. I learn by building. I test through practice. I grow through real engineering challenges.**
 
+[**Explore my journey ↗**](https://abdelazizdiab.vercel.app/)
 
 </div>
 
@@ -95,7 +96,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="images/wecon.png" width="48" height="48" alt="Wecon PLC Editor" title="Wecon PLC Editor"/>
 <img src="images/wplsoft.png" width="48" height="48" alt="WPLSoft" title="WPLSoft 2.48"/>
 <img src="images/ecostruxure.png" width="48" height="48" alt="EcoStruxure Machine Expert" title="EcoStruxure Machine Expert"/>
-<img src="images/LogixPro.png" width="48" height="48" alt="LogixPro"/>
+<img src="images/LogixPro.jpg" width="48" height="48" alt="LogixPro"/>
 <img src="https://img.shields.io/badge/J1000%20Drive-242938?style=for-the-badge" alt="J1000"/>
 
 <br/>
@@ -197,16 +198,6 @@ A continuous, hands-on journey implementing real industrial control systems.
 <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
 <img src="https://img.shields.io/badge/AI%20in%20Industry-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
 <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=flat-square&labelColor=0D1117&color=E3C993" alt=""/>
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="images/GitHub.png" alt="GitHub"/>
 
 </div>
 
