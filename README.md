@@ -35,7 +35,6 @@ At Tubix AI I explore embedded systems, computer vision and AI as supporting tec
 
 **My focus is Industrial Automation. I learn by building. I test through practice. I grow through real engineering challenges.**
 
-[**Explore my journey ↗**](https://abdelazizdiab.vercel.app/)
 
 </div>
 
@@ -96,7 +95,7 @@ Python, OpenCV, YOLO-based detection, embedded systems, intelligent sorting.
 <img src="images/wecon.png" width="48" height="48" alt="Wecon PLC Editor" title="Wecon PLC Editor"/>
 <img src="images/wplsoft.png" width="48" height="48" alt="WPLSoft" title="WPLSoft 2.48"/>
 <img src="images/ecostruxure.png" width="48" height="48" alt="EcoStruxure Machine Expert" title="EcoStruxure Machine Expert"/>
-<img src="https://img.shields.io/badge/LogixPro-242938?style=for-the-badge" alt="LogixPro"/>
+<img src="images/LogixPro.png" width="48" height="48" alt="LogixPro"/>
 <img src="https://img.shields.io/badge/J1000%20Drive-242938?style=for-the-badge" alt="J1000"/>
 
 <br/>
@@ -207,12 +206,7 @@ A continuous, hands-on journey implementing real industrial control systems.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelazizdiab44-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3C993&icon_color=E3C993&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelazizdiab44-art&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3C993&text_color=C9D1D9" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abdelazizdiab44-art&hide_border=true&background=0D1117&ring=E3C993&fire=E3C993&currStreakLabel=E3C993&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
+<img src="images/GitHub.png" alt="GitHub"/>
 
 </div>
 
