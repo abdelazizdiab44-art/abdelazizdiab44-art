@@ -14,6 +14,7 @@
 
 <a href="https://www.linkedin.com/in/abdelaziz-diab-577828344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://wa.me/201500212319"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://youtube.com/@abdelazizdiab_ia?si=LXOGC8o7ryBL8iV7"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://abdelazizdiab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E3C993&labelColor=0D1117&color=E3C993" alt="Portfolio"/></a>
 <a href="mailto:abdelazizdiab44@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -34,7 +35,6 @@ Hands-on training and practical projects help me build skills across electrical 
 At Tubix AI I explore embedded systems, computer vision and AI as supporting technologies for smarter machines.
 
 **My focus is Industrial Automation. I learn by building. I test through practice. I grow through real engineering challenges.**
-
 
 </div>
 
@@ -210,6 +210,7 @@ I'm always happy to connect with engineers, automation professionals, developers
 
 <a href="https://www.linkedin.com/in/abdelaziz-diab-577828344"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://wa.me/201500212319"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://youtube.com/@abdelazizdiab_ia?si=LXOGC8o7ryBL8iV7"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://abdelazizdiab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-0D1117?style=for-the-badge&logo=googlechrome&logoColor=E3C993&labelColor=0D1117&color=E3C993" alt="Portfolio"/></a>
 <a href="mailto:abdelazizdiab44@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E3C993?style=for-the-badge&logo=gmail&logoColor=151B23" alt="Email"/></a>
 
